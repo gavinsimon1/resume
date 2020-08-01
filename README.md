@@ -3,7 +3,7 @@
 I am a front end developer and digital marketer working toward becoming a full stack developer. I have learned so much in the 4 years I've been building websites and running digital campaigns.  I am currently in charge of Digital Operations at The Harris Agency. I'm part of a great team working hard surpass client expectations.
 
 ## Experience:
-### [The Harris Agency](https://www.harris-agency.com/) 
+### [The Harris Agency](https://www.harris-agency.com/ target="_blank") 
 #### Digital Operations (September 2018 - Present)
 * Build websites for The Harris Agency and it's clients
 * Plan and manage digital advertising campaigns for clients on Google, YouTube, Facebook, LinkedIn, etc. 
@@ -37,6 +37,7 @@ I am a front end developer and digital marketer working toward becoming a full s
 • Assist Media Director with inputting media buys
 
 ## Projects I've coded:
+### [Portfolio](https://gavinsimon1.github.io/ target="_blank")
 ### Node Weather App 
 A node app that displays the weather.  
 https://gavinsimon-weather-application.herokuapp.com/
