@@ -68,5 +68,7 @@ https://gavin-todo.netlify.app/
 * MongoDB
 * Node JS
 
-
-
+## Education:
+* Masters of Business Administration from University of Hawaii, Shidler College of Business
+* JAIMS Japan-focused Management Certificate
+* Lewis and Clark College
