@@ -1,6 +1,6 @@
 # Gavin Simon
 
-I am a front end developer and digital marketer working toward becoming a full stack developer. I have learned so much in the 4 years I've been building websites and running digital campaigns.  I am currently in charge of Digital Operations at The Harris Agency. I'm part of a great team working hard surpass client expectations.
+I am a digital marketer and web developer in Honolulu, Hawaii. I am currently in charge of Digital Operations at The Harris Agency. I'm part of a great team working hard surpass client expectations.
 
 ## Experience:
 ### [The Harris Agency](https://www.harris-agency.com/) 
