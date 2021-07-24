@@ -3,7 +3,8 @@
 I am a digital marketer and web developer in Honolulu, Hawaii. I am currently in charge of Digital Operations at The Harris Agency. I'm part of a great team working hard surpass client expectations.
 
 ## Experience:
-### [The Harris Agency](https://www.harris-agency.com/) 
+### [The Harris Agency](https://www.harris-agency.com/) / DigiVortex(https://digivortex.com/)
+
 #### Digital Operations (September 2018 - Present)
 * Build websites for The Harris Agency and it's clients
 * Plan and manage digital advertising campaigns for clients on Google, YouTube, Facebook, LinkedIn, etc. 
