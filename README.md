@@ -9,6 +9,7 @@ I am a digital marketer and web developer in Honolulu, Hawaii. I am currently VP
 * Plan and manage digital advertising campaigns for clients on Google, YouTube, Facebook, LinkedIn, Yelp
 * Search Engine Optimization
 * Analytics and data reporting
+* Google Tag Manager set-up and conversion optimization
 * Build and maintain websites for clients
 * Email Marketing Campaigns
 
