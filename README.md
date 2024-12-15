@@ -1,10 +1,9 @@
 # Gavin Simon
 
-I am a digital marketer and web developer in Honolulu, Hawaii. I am currently VP, Digital Operations at digivortex and Food Gurus Hawaii.   I'm part of a great team working hard surpass client expectations.
+I am a digital marketer and web developer in Honolulu, Hawaii. I am currently VP, Digital Operations at digivortex(https://digivortex.com/) and Food Gurus Hawaii (https://foodgurususa.com/).   I'm part of a great team working hard surpass client expectations.
 
 
 ## Experience:
-### [The Harris Agency](https://www.harris-agency.com/) / digivortex(https://digivortex.com/)
 
 #### Digital Operations (September 2018 - Present)
 * Plan and manage digital advertising campaigns for clients on Google, YouTube, Facebook, LinkedIn, Yelp
